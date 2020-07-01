@@ -1,0 +1,1 @@
+The two main files are data_summary.py and conv.py. Data sumamry laods the data filkes(not uplaoded in repo) and preps the mfor the models. conv.py rusn the experiemtns, due to memory isssues only oen model can be run at a time. uncomment models as needed
